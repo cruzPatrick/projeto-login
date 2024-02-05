@@ -37,9 +37,19 @@
         width: 50%;
         height: 100%;
     }
+
     section#login>div#form{
         float: left;
         width: 50%;
         text-align: justify;
+    }
+
+    div#form>h1{
+        font-size: 2em;
+    }
+
+    section#login>div#form>p{
+        font-size: 1.2em;
+        text-indent: 5px;
     }
 }
