@@ -52,4 +52,17 @@
         font-size: 1.2em;
         text-indent: 5px;
     }
+    /*
+
+     form>input[type=submit]{
+        width: 80%;
+        margin: auto;
+    }
+    
+    form>a.botao{
+        width: 80%;
+        margin: 10px auto auto auto;
+    }
+
+    */
 }
