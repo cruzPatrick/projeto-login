@@ -8,6 +8,7 @@
 
     section#login{
         width: 80vw;
+        height: 280px;
     }
 
     section#login>div#foto{
@@ -30,6 +31,7 @@
 
     section#login{
         width: 950px;
+        height: 350px;
     }
 
     section#login>div#foto{
@@ -49,20 +51,23 @@
     }
 
     section#login>div#form>p{
-        font-size: 1.2em;
+        font-size: 1.1em;
         text-indent: 5px;
+        margin: 10px 0px;
     }
-    /*
+    form>div.campo{
+        width: 80%;
+        margin: 10px auto;
+    }
 
      form>input[type=submit]{
         width: 80%;
         margin: auto;
     }
-    
+
     form>a.botao{
         width: 80%;
         margin: 10px auto auto auto;
     }
 
-    */
 }
